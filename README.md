@@ -12,8 +12,3 @@ This portfolio showcases my development work using modern web technologies, styl
 - 📊 **Data Visualizations** – React dashboards showcasing real-world trends in immigration data.
 - 📱 **Mobile-First Design** – Built from the ground up with responsiveness in mind.
 - 💡 **Animations & Typography** – Smooth transitions, Orbitron fonts, and glowing effects bring the portfolio to life.
-
----
-
-## 📁 Folder Structure
-
